@@ -4,16 +4,7 @@
 
 ## About Me
 
-I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning. I love exploring new technologies and applying them to solve real-world problems.
-
-## 🌱 Currently Learning
-
-- [Technology or Language]: C#
-- [Another Technology]: Arduino
-
-## 👯 Looking to Collaborate On
-
-- Projects related to [Gaming or Hacking].
+I'm a passionate developer with a keen interest in software development and open-source contributions.
 
 ## 📫 How to Reach Me
 
@@ -26,17 +17,3 @@ I'm a passionate developer with a keen interest in software development, open-so
 ## 📈 GitHub Stats
 
 ![jhl337's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhl337&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![jhl337's GitHub trophies](https://github-profile-trophy.vercel.app/?username=jhl337&theme=radical)
-
-## 🗂️ Highlighted Repositories
-
-<a href="https://github.com/jhl337/repo-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhl337&repo=repo-name&theme=radical" />
-</a>
-
-<a href="https://github.com/jhl337/another-repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhl337&repo=another-repo&theme=radical" />
-</a>
