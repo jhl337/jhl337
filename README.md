@@ -5,10 +5,7 @@
 ## About Me
 
 I'm a passionate developer with a keen interest in software development and open-source contributions.
-
-## 📫 How to Reach Me
-
-- **Patreon**: [jhl337](https://www.patreon.com/jhl337/)
+Also a student from HLJU.
 
 ## ⚡ My motivation
 
